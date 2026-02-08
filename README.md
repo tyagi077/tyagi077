@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **tyagimayank0501@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:**=Microservices 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyagi_mayank7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyagi-mayank1234) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tyagi_077) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyagimayank0501@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tyagi_mayank7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyagi-mayank1234) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tyagimayank0501@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
